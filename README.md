@@ -1,4 +1,4 @@
-Senior Student in a University
+Graduate Student in a University
 
 <!---
 Guard-with-cat/Guard-with-cat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
